@@ -1,5 +1,4 @@
 import React from 'react';
-// import '../../../assets/css/index.css';
 import Button from '@material-ui/core/Button'; // 导入Button组件
 
 class Home extends React.Component {
@@ -8,7 +7,6 @@ class Home extends React.Component {
         //父类的this
         super(props);
         //定义react数据
-
         this.state = {
             "msg": "Person组件",
             tittle: "这是tittle",
@@ -19,12 +17,6 @@ class Home extends React.Component {
             }
         }
     }
-
-    //绑定属性 要注意
-    // class--> className
-    // for--> htmlFor
-    //   style 也是稍有差异             <div style={{"color": 'red'}}>行内样式 写法也与html有所不同</div>
-    //其他没变
 
     render() {
         return (

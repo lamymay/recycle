@@ -3,16 +3,17 @@ import React from 'react';
 // import './App.css';
 
 import Home from './components/trush/test/Home'
+import Layout from './components/trush/test2/lay/Layout'
 
 
 function App() {
     return (
         <div>
             {/*<SimpleBottomNavigation/>*/}
-
             <Home/>
-
             <hr/>
+
+            <Layout/>
 
         </div>
     );
