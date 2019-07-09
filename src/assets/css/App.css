@@ -31,3 +31,17 @@
     transform: rotate(360deg);
   }
 }
+
+.header{
+    height: auto;
+    line-height: 44px;
+    text-align: center;
+    background: #000;
+    color: aquamarine;
+    text-align: center;
+}
+
+.header a{
+    color: #fff;
+    padding: 0px 20px;
+}
