@@ -3,17 +3,21 @@ import React from 'react';
 // import './App.css';
 
 import Home from './components/trush/test/Home'
-import Layout from './components/trush/test2/lay/Layout'
+// import Layout from './components/trush/test2/lay/Layout'
+// import Chart from './components/layout/Chart'
+import Dashboard from './components/layout/Dashboard'
 
 
 function App() {
     return (
         <div>
             {/*<SimpleBottomNavigation/>*/}
-            <Home/>
-            <hr/>
+            {/*<Home/>*/}
+            {/*<hr/>*/}
 
-            <Layout/>
+            {/*<Layout/>*/}
+            {/*<Chart/>*/}
+            <Dashboard/>
 
         </div>
     );

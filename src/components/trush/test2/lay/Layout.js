@@ -1,3 +1,4 @@
+/*
 import React from 'react';
 //css
 import '../../../../assets/css/Layout.css';
@@ -48,7 +49,7 @@ class Layout extends React.Component {
 
             <div className='root'>
                 <h1>Layout</h1>
-{/*                <AppBar
+{/!*                <AppBar
                     position="fixed"
                     className={clsx(classes.appBar, {
                         [classes.appBarShift]: open,
@@ -70,8 +71,8 @@ class Layout extends React.Component {
                             Mini variant drawer
                         </Typography>
                     </Toolbar>
-                </AppBar>*/}
-              {/*  <Drawer
+                </AppBar>*!/}
+              {/!*  <Drawer
                     variant="permanent"
                     className={clsx(classes.drawer, {
                         [classes.drawerOpen]: open,
@@ -108,11 +109,11 @@ class Layout extends React.Component {
                             </ListItem>
                         ))}
                     </List>
-                </Drawer>*/}
+                </Drawer>*!/}
 
 
 
-                {/*                <main className='content'>
+                {/!*                <main className='content'>
                     <div className='toolbar' />
                     <Typography paragraph>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -138,7 +139,7 @@ class Layout extends React.Component {
                         accumsan lacus vel facilisis. Nulla posuere sollicitudin aliquam ultrices sagittis orci a.
                     </Typography>
                     {BottomOption()}
-                </main>*/}
+                </main>*!/}
             </div>
 
 
@@ -146,3 +147,4 @@ class Layout extends React.Component {
     }
 }
 export default Layout;
+*/

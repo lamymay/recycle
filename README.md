@@ -4,6 +4,26 @@
 2加入需要的模块，如：ui模块 http模块
 
 
+
+
+npm install recharts --save
+npm install @material-ui/core --save
+npm install @material-ui/icons --save 
+
+# 这个对吗
+npm install @material-ui-icons --save
+
+
+
+
+
+
+资料
+[图表格](https://github.com/mui-org/material-ui/tree/master/examples)
+
+
+
+
 #可用教程
 [@material-ui/core by 官方github ](https://www.npmjs.com/package/@material-ui/core)
 
@@ -66,3 +86,8 @@ MUI的使用和大多数其它UI框架的区别，它是按需加载的，即需
 链接：https://www.jianshu.com/p/b3cfaca94596
 来源：简书
 简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
+
+
+mdui
+
+https://www.mdui.org/docs/chip
